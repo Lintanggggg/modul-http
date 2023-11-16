@@ -1,0 +1,19 @@
+{
+  "name": "kk4-pak",
+  "version": "1.0.0",
+  "description" : "learning app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "author": "Lintang",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "keywords": []
+}
